@@ -1,3 +1,4 @@
+import React from 'react';
 import homeLogo from '../../assets/home.png'
 import './Home.css';
 
